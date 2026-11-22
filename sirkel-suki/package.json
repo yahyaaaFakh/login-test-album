@@ -1,0 +1,19 @@
+{
+  "name": "sirkel-suki",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Galeri foto sirkel Suki dengan halaman login (Node.js + Vite)",
+  "type": "module",
+  "engines": {
+    "node": ">=20.19"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "node server/index.js",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}

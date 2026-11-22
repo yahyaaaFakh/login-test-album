@@ -1,0 +1,122 @@
+[
+  {
+    "id": "utama-raya-beach",
+    "title": "Utama Raya Beach",
+    "description": "Empat orang berdiri di jalan marmer yang diapit pilar putih dan pohon palem, dengan laut kelihatan di ujung jalan.",
+    "sticker": "cihuy",
+    "width": 1400,
+    "height": 1054,
+    "thumb": "/photos/thumb/utama-raya-beach.webp",
+    "full": "/photos/full/utama-raya-beach.webp"
+  },
+  {
+    "id": "wisuda",
+    "title": "Wisuda",
+    "description": "Empat orang berjas hitam dengan kalung medali hijau-kuning, berdiri di depan tulisan Paseban Sena.",
+    "sticker": "cihuy",
+    "width": 1200,
+    "height": 1600,
+    "thumb": "/photos/thumb/wisuda.webp",
+    "full": "/photos/full/wisuda.webp"
+  },
+  {
+    "id": "wisuda-mirror-selfie",
+    "title": "Wisuda, mirror selfie",
+    "description": "Mirror selfie sebelum acara dimulai. Semua sudah rapi pakai jas, dasi, dan kemeja putih.",
+    "sticker": null,
+    "width": 567,
+    "height": 620,
+    "thumb": "/photos/thumb/wisuda-mirror-selfie.webp",
+    "full": "/photos/full/wisuda-mirror-selfie.webp"
+  },
+  {
+    "id": "mafia-era",
+    "title": "Mafia era",
+    "description": "Lima orang serba hitam duduk di tangga beton, satu memegang gitar merah. Kalau ada film mafia, ini posternya.",
+    "sticker": "ketar-ketir",
+    "width": 853,
+    "height": 1080,
+    "thumb": "/photos/thumb/mafia-era.webp",
+    "full": "/photos/full/mafia-era.webp"
+  },
+  {
+    "id": "sok-serius",
+    "title": "Sok serius",
+    "description": "Lima orang, satu meja hitam, dan pasang muka paling serius. Yang berdiri di tengah paling meyakinkan.",
+    "sticker": "ketar-ketir",
+    "width": 900,
+    "height": 1060,
+    "thumb": "/photos/thumb/sok-serius.webp",
+    "full": "/photos/full/sok-serius.webp"
+  },
+  {
+    "id": "kopi-kenangan",
+    "title": "Kopi Kenangan",
+    "description": "Nongkrong di Kopi Kenangan. Es kopi sudah di meja, tinggal ngobrol.",
+    "sticker": "cihuy",
+    "width": 567,
+    "height": 840,
+    "thumb": "/photos/thumb/kopi-kenangan.webp",
+    "full": "/photos/full/kopi-kenangan.webp"
+  },
+  {
+    "id": "hp-iphone-gw",
+    "title": "HP iPhone gw",
+    "description": "Satu orang sibuk menelepon, dua lainnya kaget sampai tangannya naik ke kepala dan mulut.",
+    "sticker": "ketar-ketir",
+    "width": 963,
+    "height": 1280,
+    "thumb": "/photos/thumb/hp-iphone-gw.webp",
+    "full": "/photos/full/hp-iphone-gw.webp"
+  },
+  {
+    "id": "kayutangan",
+    "title": "Kayutangan",
+    "description": "Foto bareng di gang berlantai motif bunga. Satu selfie di depan, yang lain santai di belakang, satu mengacungkan jempol.",
+    "sticker": null,
+    "width": 900,
+    "height": 1200,
+    "thumb": "/photos/thumb/kayutangan.webp",
+    "full": "/photos/full/kayutangan.webp"
+  },
+  {
+    "id": "kayutangan-mirror-selfie",
+    "title": "Kayutangan, mirror selfie",
+    "description": "Selfie lewat cermin cembung di pinggir gang. Gangnya jadi melengkung, mukanya tetap kelihatan semua.",
+    "sticker": null,
+    "width": 899,
+    "height": 1124,
+    "thumb": "/photos/thumb/kayutangan-mirror-selfie.webp",
+    "full": "/photos/full/kayutangan-mirror-selfie.webp"
+  },
+  {
+    "id": "foto-di-pantai",
+    "title": "Foto di pantai",
+    "description": "Empat orang berdiri di pantai berbatu, langit di belakangnya mulai berwarna jingga.",
+    "sticker": "cihuy",
+    "width": 567,
+    "height": 700,
+    "thumb": "/photos/thumb/foto-di-pantai.webp",
+    "full": "/photos/full/foto-di-pantai.webp"
+  },
+  {
+    "id": "sholat-berjamaah",
+    "title": "Sholat berjamaah",
+    "description": "Berdiri sejajar di lantai hijau, sholat berjamaah bersama.",
+    "sticker": null,
+    "width": 963,
+    "height": 1280,
+    "thumb": "/photos/thumb/sholat-berjamaah.webp",
+    "full": "/photos/full/sholat-berjamaah.webp"
+  },
+  {
+    "id": "superstar-jumbo",
+    "title": "Superstar Jumbo",
+    "description": "Selfie dadakan, sementara temannya yang berseragam pramuka sibuk menghabiskan jajanannya.",
+    "sticker": null,
+    "width": 960,
+    "height": 1280,
+    "thumb": "/photos/thumb/superstar-jumbo.webp",
+    "full": "/photos/full/superstar-jumbo.webp"
+  }
+]
